@@ -2,7 +2,7 @@
 
 ![System photo](/assets/nukit-torch-tripod-stand-adapter-overview.jpg)
 
-***Important Disclaimer: This is a prototype device, offered free-of-charge as a public service, and no claim, guarantee, or warranty of performance or suitablity for any purpose is offered or implied.  This device has not been independently certified or approved.  Use of this design or any derivatives thereof is entirely at your own risk.  By using any of these materials, you acknowledge that you have read and understood the Disclaimer at the end of this document.  Please do not use these materials if you do not understand and accept these risks. THIS IS NOT A CYBER NIGHT-MARKET PRODUCT. Cyber Night-Market product is not responsible for use, misuse, or performance of this product in any way. ***
+***Important Disclaimer: This is a prototype device, offered free-of-charge as a public service, and no claim, guarantee, or warranty of performance or suitablity for any purpose is offered or implied.  This device has not been independently certified or approved.  Use of this design or any derivatives thereof is entirely at your own risk.  By using any of these materials, you acknowledge that you have read and understood the Disclaimer at the end of this document.  Please do not use these materials if you do not understand and accept these risks. THIS IS NOT A CYBER NIGHT-MARKET PRODUCT. Cyber Night-Market is not responsible for use, misuse, or performance of this product in any way. ***
 
 ## Bill of Materials
 
